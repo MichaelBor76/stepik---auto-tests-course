@@ -1,3 +1,3 @@
 # stepik---auto-tests-course
-Это домашние задания к курсу 'Автоматизация тестирования с помощью Selenium и Python.' https://stepik.org/course/575
+These are the homework assignments for the course “Test Automation with Selenium and Python.” https://stepik.org/course/575
 
